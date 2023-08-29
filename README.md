@@ -1,0 +1,1 @@
+The tutorial article can be found in [利用Docker + Azure Web App，輕鬆部署你的應用程式！ — Step-by-step guide](https://medium.com/@ro5112/%E5%88%A9%E7%94%A8docker-azure-web-app-%E8%BC%95%E9%AC%86%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F-step-by-step-guide-7cfd1819608)
