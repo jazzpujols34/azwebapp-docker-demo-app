@@ -10,7 +10,7 @@ COPY . /app
 # Install the required packages
 RUN pip install --trusted-host pypi.python.org Flask
 
-# Make port 5000 available to the world outside this container
+# Make port 5011 available to the world outside this container
 EXPOSE 5011
 
 # Run app.py when the container launches
